@@ -1,0 +1,268 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/server/Music/index.html",
+		"/C/Users/server/Documents/testenav.html",
+		"/C/Users/server/Documents/estilo.css",
+		"/C/Users/server/Desktop/siteloja/index.html",
+		"/C/Users/server/Desktop/siteloja/css/style.css",
+		"/C/Users/server/Documents/testenave.html",
+		"/C/Users/server/Desktop/Node shop/index.html",
+		"/C/Users/server/Desktop/Node shop/css/style.css",
+		"/C/Users/server/Desktop/float.html",
+		"/C/Users/server/Desktop/Curso de Css/banner.html",
+		"/C/Users/server/Desktop/Curso de Css/style.css",
+		"/C/Users/server/Desktop/Curso de Css/index.html",
+		"/C/Users/server/Desktop/Curso de Css/teste.html",
+		"/C/Users/server/Desktop/buceta.html",
+		"/C/Users/server/Desktop/teste/teste.html",
+		"/C/Users/server/Desktop/cursocss3/newcolor.html",
+		"/C/Users/server/Desktop/cursocss3/css/style.css",
+		"/C/Users/server/Desktop/cursocss3/float.html",
+		"/C/Users/server/Desktop/cursocss3/test.html",
+		"/C/Users/server/Desktop/cursocss3/aula7.html",
+		"/C/Users/server/Desktop/cursocss3/clearfix.html",
+		"/C/Users/server/Desktop/cursocss3/background.html",
+		"/C/Users/server/Desktop/cursocss3/transition.html",
+		"/C/Users/server/Desktop/cursocss3/aula4.html",
+		"/C/Users/server/Desktop/cursocss3/agrupamento.html",
+		"/C/Users/server/Desktop/HTML5/modulo1/svg.html",
+		"/C/Users/server/Desktop/HTML5/modulo1/imagemmapeada.html",
+		"/C/Users/server/Desktop/HTML5/modulo1/detalhes.html",
+		"/C/Users/server/Desktop/HTML5/modulo1/estilo.css",
+		"/C/Users/server/Desktop/HTML5/modulo1/formularios/form.html",
+		"/C/wamp64/www/aulasphp.com/audio/legenda.vtt",
+		"/C/wamp64/www/aulasphp.com/audio/audio.html",
+		"/C/Users/server/Desktop/HTML5/modulo1/DIv/div.html",
+		"/C/Users/server/Desktop/HTML5/modulo1/Tabelas/tabela.html",
+		"/C/Users/server/Desktop/node_js_celke/cadprod.js",
+		"/C/Users/server/Desktop/node_js_celke/app.js",
+		"/C/Users/server/Desktop/node_js_celke/src/index.html",
+		"/C/Users/server/Desktop/node_js_celke/package.json",
+		"/C/Users/server/Desktop/Node JS Celke/src/index.html",
+		"/C/Users/server/Desktop/Node JS Celke/app.js",
+		"/C/Users/server/Desktop/Node JS Celke/Gerenciado Financeiro.html",
+		"/C/Users/server/Desktop/Node JS Celke/node_modules/accepts/README.md",
+		"/C/Users/server/Desktop/Node JS Celke/index2.js",
+		"/C/Users/server/Desktop/Node JS Celke/modulos/caldescont.js",
+		"/C/Users/server/Desktop/Curso JS/datas.html",
+		"/C/Users/server/Desktop/Curso JS/manipulandoformularios.html",
+		"/C/Users/server/Desktop/Curso JS/getElementsByTagName.html",
+		"/C/Users/server/Desktop/Curso JS/getElementById.html",
+		"/C/Users/server/Desktop/Curso JS/tratamento de erros.html",
+		"/C/Users/server/Desktop/Curso JS/calc.js",
+		"/C/Users/server/Desktop/JS Node/soma.js",
+		"/C/Users/server/Desktop/Curso JS/matriz.html",
+		"/C/Users/server/Desktop/Curso JS/estilo.css",
+		"/C/Users/server/Desktop/Curso JS/matriz",
+		"/C/Users/server/Desktop/Curso JS/vetor.html",
+		"/C/Users/server/Desktop/Curso JS/imc.css",
+		"/C/Users/server/Desktop/Curso JS/Calculo de imc.html",
+		"/C/Users/server/Desktop/Curso JS/aula 5.html",
+		"/C/Users/server/Desktop/Curso JS/aula2.html",
+		"/C/Users/server/Desktop/Curso JS/aula2",
+		"/C/Users/server/Desktop/Curso JS/aula1.html",
+		"/C/Users/server/Desktop/Curso de Java/js/app.js",
+		"/C/Users/server/Desktop/Curso de Java/aula1.html",
+		"/C/Users/server/Desktop/Curso de Java/app.js",
+		"/C/wamp64/www/aulasphp.com/28-crud/php_action/create.php",
+		"/C/Users/server/Desktop/Curso css/testehtml5.html",
+		"/C/Users/server/Desktop/Curso css/index.html",
+		"/C/Users/server/Desktop/Curso css/styles.css",
+		"/C/wamp64/www/aulasphp.com/Como criar um formulario e cadastrar no bd/index.php",
+		"/C/wamp64/www/aulasphp.com/Como criar um formulario e cadastrar no bd/conexao.php",
+		"/C/wamp64/www/aulasphp.com/Como criar um formulario e cadastrar no bd/processa.php",
+		"/C/wamp64/www/aulasphp.com/arrays/multidimensional.php",
+		"/C/wamp64/www/aulasphp.com/funçoes/teste.php",
+		"/C/wamp64/www/aulasphp.com/arrays/array1.php",
+		"/C/wamp64/www/aulasphp.com/funçoes/função2.php",
+		"/C/wamp64/www/aulasphp.com/formularios/index.php",
+		"/C/wamp64/www/aulasphp.com/28-crud/includes/message.php",
+		"/C/wamp64/www/aulasphp.com/28-crud/php_action/update.php",
+		"/C/wamp64/www/aulasphp.com/28-crud/editar.php",
+		"/C/wamp64/www/aulasphp.com/28-crud/includes/footer.php",
+		"/C/wamp64/www/aulasphp.com/28-crud/php_action/delete.php",
+		"/C/wamp64/www/aulasphp.com/funçoes/funçao1.php",
+		"/C/wamp64/www/aulasphp.com/28-crud/index.php",
+		"/C/wamp64/www/aulasphp.com/28-crud/update error.php",
+		"/C/wamp64/www/aulasphp.com/28-crud/adicionar.php",
+		"/C/wamp64/www/aulasphp.com/28-crud/php_action/db_connect.php",
+		"/C/wamp64/www/aulasphp.com/25-Sistema de login/db_connect.php",
+		"/C/wamp64/www/aulasphp.com/28-crud/includes/header.php",
+		"/C/wamp64/www/aulasphp.com/27- Include Require/footer.php",
+		"/C/wamp64/www/aulasphp.com/27- Include Require/header.php",
+		"/C/wamp64/www/aulasphp.com/27- Include Require/index.php",
+		"/C/wamp64/www/aulasphp.com/25-Sistema de login/index.php",
+		"/C/wamp64/www/aulasphp.com/25-Sistema de login/home.php",
+		"/C/wamp64/www/aulasphp.com/23-Upload/index.php",
+		"/C/wamp64/www/aulasphp.com/for e foreach/index.php",
+		"/C/wamp64/www/aulasphp.com/formularios/dados.php",
+		"/C/wamp64/www/aulasphp.com/testeaspas.php",
+		"/C/wamp64/www/aulasphp.com/02-variaveis.php",
+		"/C/wamp64/www/aulasphp.com/01-fundamentos_basicos.php",
+		"/C/wamp64/www/aulasphp/index.php",
+		"/C/wamp64/bin/apache/apache2.4.46/conf/httpd.conf",
+		"/C/wamp64/bin/apache/apache2.4.46/conf/extra/httpd-vhosts.conf"
+	],
+	"find":
+	{
+		"height": 46.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 46.0
+	},
+	"input":
+	{
+		"height": 48.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 88.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 217.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
